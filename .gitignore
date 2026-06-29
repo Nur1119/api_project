@@ -1,0 +1,19 @@
+# --- IDE ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# --- Build / Maven ---
+target/
+*.class
+
+# --- Секреты / окружение (ключ Nessie НИКОГДА не коммитим) ---
+.env
+*.env
+secrets.properties
+
+# --- OS ---
+Thumbs.db
+.DS_Store
