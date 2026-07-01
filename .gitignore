@@ -17,3 +17,5 @@ secrets.properties
 # --- OS ---
 Thumbs.db
 .DS_Store
+
+.claude/
